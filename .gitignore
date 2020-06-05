@@ -1,0 +1,7 @@
+*.pyc
+venv
+venv/
+venv/*
+Current_Model_Pool
+Current_Model_Pool/
+Current_Model_Pool/*

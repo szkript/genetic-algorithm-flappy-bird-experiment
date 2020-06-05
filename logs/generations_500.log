@@ -1,0 +1,32 @@
+INFO:root:population :500
+INFO:root:gen: 2 ,score: 0 ,high score: 0
+INFO:root:gen: 3 ,score: 0 ,high score: 0
+INFO:root:gen: 4 ,score: 1 ,high score: 1
+INFO:root:gen: 5 ,score: 0 ,high score: 1
+INFO:root:gen: 6 ,score: 15 ,high score: 15
+INFO:root:gen: 7 ,score: 109 ,high score: 109
+INFO:root:gen: 8 ,score: 362 ,high score: 362
+INFO:root:gen: 9 ,score: 307 ,high score: 362
+INFO:root:gen: 10 ,score: 637 ,high score: 637
+INFO:root:gen: 11 ,score: 123 ,high score: 637
+INFO:root:gen: 12 ,score: 1021 ,high score: 1021
+INFO:root:gen: 13 ,score: 420 ,high score: 1021
+INFO:root:gen: 14 ,score: 520 ,high score: 1021
+INFO:root:population :500
+INFO:root:gen: 2 ,score: 0 ,high score: 0
+INFO:root:population :500
+INFO:root:gen: 2 ,score: 0 ,high score: 0
+INFO:root:gen: 3 ,score: 0 ,high score: 0
+INFO:root:gen: 4 ,score: 0 ,high score: 0
+INFO:root:gen: 5 ,score: 0 ,high score: 0
+INFO:root:gen: 6 ,score: 0 ,high score: 0
+INFO:root:gen: 7 ,score: 0 ,high score: 0
+INFO:root:gen: 8 ,score: 0 ,high score: 0
+INFO:root:gen: 9 ,score: 0 ,high score: 0
+INFO:root:gen: 10 ,score: 0 ,high score: 0
+INFO:root:gen: 11 ,score: 0 ,high score: 0
+INFO:root:gen: 12 ,score: 0 ,high score: 0
+INFO:root:gen: 13 ,score: 0 ,high score: 0
+INFO:root:gen: 14 ,score: 0 ,high score: 0
+INFO:root:gen: 15 ,score: 0 ,high score: 0
+INFO:root:gen: 16 ,score: 2 ,high score: 2
